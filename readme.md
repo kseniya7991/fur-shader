@@ -6,8 +6,8 @@ You can tweak almost all of these settings.
 
 ## Screenshots
 
-![example](https://github.com/kseniya7991/fur-shader/blob/master/example.png)
 ![example2](https://github.com/kseniya7991/fur-shader/blob/master/example2.png)
+![example](https://github.com/kseniya7991/fur-shader/blob/master/example.png)
 
 ## Live
 
