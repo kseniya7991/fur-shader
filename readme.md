@@ -1,7 +1,7 @@
 # Fur (grass shader)
 
-Fur (grass) shader based on [gcolmnt](https://github.com/gcolmnt/Vmachine) grass shader :heart:.
-I added more verticies for smoother blades, height of blades and variation of it, wave size, and "blow" effect by mouse.
+Fur (grass) shader based on [gcolmnt](https://github.com/gcolmnt/Vmachine) grass shader :heart:\
+I added more verticies for smoother blades, height of blades and variation of it, wave size, and "blow" effect by mouse.\
 You can tweak almost all of these settings.
 
 ## Screenshots
@@ -11,8 +11,8 @@ You can tweak almost all of these settings.
 
 ## Live
 
-The project is live here (https://waving-shaders.vercel.app/)[https://waving-shaders.vercel.app/]
-Also you can play with some tweaks (https://waving-shaders.vercel.app/#debug)[https://waving-shaders.vercel.app/#debug]
+The project is live here [https://fur-shader.vercel.app/](https://fur-shader.vercel.app/).\
+Also you can play with some tweaks [https://fur-shader.vercel.app/#debug](https://fur-shader.vercel.app/#debug)
 
 ## Technologies
 
@@ -20,6 +20,8 @@ Also you can play with some tweaks (https://waving-shaders.vercel.app/#debug)[ht
 -   [Shaders](https://shaderific.com/glsl.html)
 -   [grass shader](https://github.com/gcolmnt/Vmachine)
 
+
+## Run 
 ### Installation
 
 To install the dependencies, run the following command:
@@ -46,9 +48,9 @@ npm run build
 
 ## Project Developer
 
-Open to suggestions for project functionality and improvements.
+Open to ideas on how to improve the project :heart:
 
-**Ksenia Stoichykava** — _Creative Front-End Developer_
+**Kseniya Stoichykava** — _Creative Front-End Developer_
 
 ## Source of inspiration :sparkles:
 
